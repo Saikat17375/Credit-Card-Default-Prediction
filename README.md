@@ -40,9 +40,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 ## Team Members:
-1.Abhishek S Mayya(142302014)
+1.Saikat samui(142302015)
 
 2.Shreyansh Acharya(142302013)
 
-3.Saikat samui(142302015)
+3.Abhishek S Mayya(142302014)
 
